@@ -56,3 +56,15 @@ This repository tracks my journey through Data Structures and Algorithms (DSA). 
 - [ ] Stack & Queue patterns (Monotonic Stack)
 - [ ] Binary Trees & Tree Traversals (DFS / BFS)
 - [ ] Dynamic Programming fundamentals
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0046-permutations](https://github.com/aarvy257-ai/leetcode-solutions/tree/main/0046-permutations/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0046-permutations](https://github.com/aarvy257-ai/leetcode-solutions/tree/main/0046-permutations/) | Medium |
+<!---LeetCode Topics End-->

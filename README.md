@@ -82,4 +82,12 @@ This repository tracks my journey through Data Structures and Algorithms (DSA). 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/aarvy257-ai/leetcode-solutions/tree/main/3955-valid-binary-strings-with-cost-limit/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1922-count-good-numbers](https://github.com/aarvy257-ai/leetcode-solutions/tree/main/1922-count-good-numbers/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1922-count-good-numbers](https://github.com/aarvy257-ai/leetcode-solutions/tree/main/1922-count-good-numbers/) | Medium |
 <!---LeetCode Topics End-->

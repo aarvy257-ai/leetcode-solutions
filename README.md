@@ -69,4 +69,17 @@ This repository tracks my journey through Data Structures and Algorithms (DSA). 
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/aarvy257-ai/leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/aarvy257-ai/leetcode-solutions/tree/main/0046-permutations/) | Medium |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/aarvy257-ai/leetcode-solutions/tree/main/3955-valid-binary-strings-with-cost-limit/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/aarvy257-ai/leetcode-solutions/tree/main/3955-valid-binary-strings-with-cost-limit/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/aarvy257-ai/leetcode-solutions/tree/main/3955-valid-binary-strings-with-cost-limit/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/aarvy257-ai/leetcode-solutions/tree/main/3955-valid-binary-strings-with-cost-limit/) | Medium |
 <!---LeetCode Topics End-->

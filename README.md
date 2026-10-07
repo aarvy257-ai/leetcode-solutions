@@ -64,11 +64,13 @@ This repository tracks my journey through Data Structures and Algorithms (DSA). 
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/aarvy257-ai/leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/aarvy257-ai/leetcode-solutions/tree/main/0046-permutations/) | Medium |
+| [0526-beautiful-arrangement](https://github.com/aarvy257-ai/leetcode-solutions/tree/main/0526-beautiful-arrangement/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/aarvy257-ai/leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/aarvy257-ai/leetcode-solutions/tree/main/0046-permutations/) | Medium |
+| [0526-beautiful-arrangement](https://github.com/aarvy257-ai/leetcode-solutions/tree/main/0526-beautiful-arrangement/) | Medium |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/aarvy257-ai/leetcode-solutions/tree/main/3955-valid-binary-strings-with-cost-limit/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -77,6 +79,7 @@ This repository tracks my journey through Data Structures and Algorithms (DSA). 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0526-beautiful-arrangement](https://github.com/aarvy257-ai/leetcode-solutions/tree/main/0526-beautiful-arrangement/) | Medium |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/aarvy257-ai/leetcode-solutions/tree/main/3955-valid-binary-strings-with-cost-limit/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -90,4 +93,12 @@ This repository tracks my journey through Data Structures and Algorithms (DSA). 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1922-count-good-numbers](https://github.com/aarvy257-ai/leetcode-solutions/tree/main/1922-count-good-numbers/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0526-beautiful-arrangement](https://github.com/aarvy257-ai/leetcode-solutions/tree/main/0526-beautiful-arrangement/) | Medium |
+## Bitmask
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0526-beautiful-arrangement](https://github.com/aarvy257-ai/leetcode-solutions/tree/main/0526-beautiful-arrangement/) | Medium |
 <!---LeetCode Topics End-->

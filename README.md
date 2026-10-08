@@ -77,6 +77,7 @@ This repository tracks my journey through Data Structures and Algorithms (DSA). 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/aarvy257-ai/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/aarvy257-ai/leetcode-solutions/tree/main/3955-valid-binary-strings-with-cost-limit/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -107,4 +108,12 @@ This repository tracks my journey through Data Structures and Algorithms (DSA). 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0051-n-queens](https://github.com/aarvy257-ai/leetcode-solutions/tree/main/0051-n-queens/) | Hard |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/aarvy257-ai/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/aarvy257-ai/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->

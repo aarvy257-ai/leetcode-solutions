@@ -116,4 +116,12 @@ This repository tracks my journey through Data Structures and Algorithms (DSA). 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/aarvy257-ai/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0061-rotate-list](https://github.com/aarvy257-ai/leetcode-solutions/tree/main/0061-rotate-list/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0061-rotate-list](https://github.com/aarvy257-ai/leetcode-solutions/tree/main/0061-rotate-list/) | Medium |
 <!---LeetCode Topics End-->
